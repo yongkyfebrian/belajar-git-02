@@ -10,6 +10,7 @@
     <h1>test git remote 01</h1>
 </body>
 </html>
+</p>lorem<p>
 
 <HTML></HTML>
 
